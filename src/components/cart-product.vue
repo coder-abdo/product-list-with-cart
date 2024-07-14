@@ -43,7 +43,7 @@ const handleDecreaseItem = () => {
   <div>
     <div class="relative">
       <img
-        :src="image.desktop || 'https://placehold.co/600x400/png'"
+        :src="image.desktop"
         alt="product image"
         class="w-full rounded-md shadow-sm"
         :srcset="image.tablet + ' 768w, ' + image.mobile + ' 480w'"

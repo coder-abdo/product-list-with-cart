@@ -28,12 +28,12 @@ Users should be able to:
 
 ### Screenshot
 
-![challenge screenshot](./src/assets/images/challenge-screenshot.png)
+![challenge screenshot](./src/assets/images/challenge-screenshot.jpg)
 
 ### Links
 
-- Solution URL: [frontendmentor solution URL](https://your-solution-url.com)
-- Live Site URL: [vercel live site URL](https://your-live-site-url.com)
+- Solution URL: [frontendmentor solution URL](https://www.frontendmentor.io/solutions/product-list-with-cart-trrIdMlKIX)
+- Live Site URL: [vercel live site URL](https://product-list-with-cart-phi.vercel.app/)
 
 ## My process
 
